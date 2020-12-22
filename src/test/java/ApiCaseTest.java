@@ -8,7 +8,7 @@ public class ApiCaseTest {
 
 
     @Test
-    public void TextOne(){
+    public void apiTestOne(){
         Assert.assertTrue(exampleOneOperation.visitBaiDuOperation());
     }
 }
