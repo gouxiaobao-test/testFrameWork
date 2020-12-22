@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="masterApi-test">
+
+    <test name="api">
+        <classes>
+            <class name="ApiCaseTest"></class>
+        </classes>
+    </test>
+</suite>
